@@ -1,5 +1,5 @@
 # simplewebcalculator
-An simple yet interactive calculator build using JacaScript
+An simple yet interactive calculator build using JavaScript
 
 Official website for this project: -
 
@@ -10,7 +10,7 @@ Official website for this project: -
   - https://www.facebook.com/qawi0105
 
 ## Changelogs
-1. UPDATE 1 : 20/7/2019 - Initial design
+1. UPDATE 1 : 30/7/2019 - Initial design
 
 
 ## Credit
