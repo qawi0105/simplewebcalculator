@@ -39,4 +39,4 @@ Official website for this project: -
 
 ## License
 
-This project is under ```MIT license```, please look at the LICENSE file
+This project is under ```MIT license```, please look at the LICENSE file.
