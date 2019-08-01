@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Simple Calculator</title>
+	<style type="text/css">
+		#form{ margin-top: 50px; }
+		.input text{width: 250px; height: 30px}
+		.button{width: 90px; height: 30px;}
+		
+	</style>
+</head>
+<body>
+	<center>
+	<form id="forms" name="formsA">
+		<input type="text" name="text" id="text" />
+		<br>
+		<input type="button" name="button" value="1" onclick="formsA.text.value +='1'"/>
+		<input type="button" name="button" value="2" onclick="formsA.text.value +='2'"/>
+		<input type="button" name="button" value="3" onclick="formsA.text.value +='3'"/><br>
+
+		<input type="button" name="button" value="4" onclick="formsA.text.value +='4'"/>
+		<input type="button" name="button" value="5" onclick="formsA.text.value +='5'"/>
+		<input type="button" name="button" value="6" onclick="formsA.text.value +='6'"/><br>
+
+		<input type="button" name="button" value="7" onclick="formsA.text.value +='7'"/>
+		<input type="button" name="button" value="8" onclick="formsA.text.value +='8'"/>
+		<input type="button" name="button" value="9" onclick="formsA.text.value +='9'"/><br>
+
+		<input type="button" name="button" value="+" onclick="formsA.text.value +='+'"/>
+		<input type="button" name="button" value="-" onclick="formsA.text.value +='-'"/>
+		<input type="button" name="button" value="/" onclick="formsA.text.value +='/'"/><br>
+
+		<input type="button" name="button" value="x" onclick="formsA.text.value +='*'"/>
+		<input type="button" name="button" value="0" onclick="formsA.text.value +='0'"/>
+		<input type="button" name="button" value="=" onclick="formsA.text.value = eval(formsA.text.value) "/><br>
+
+		<input type="button" name="Clear All" value="Clear All" onclick="formsA.text.value = ' ' ">
+	</form>
+	</center>
+
+</body>
+</html> 
