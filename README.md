@@ -11,6 +11,7 @@ Official website for this project: -
 
 ## Changelogs
 1. UPDATE 1 : 30/7/2019 - Initial design
+2. UPDATE 2 : 1/8/2019  - Well, just notice that I make a tiny mistake using eval() funtion to produce the results...hahaha.
 
 
 ## Credit
